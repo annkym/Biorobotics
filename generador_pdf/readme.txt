@@ -8,3 +8,13 @@ sudo python setup.py install
 
 Descargar el proyecto generador_pdf en el catkin_ws
 https://github.com/annkym/Biorobotics
+
+Si no esta instalado el modulo reportlab
+
+Instalar y/o actualizar python pip
+sudo apt install python-pip
+pip install -U pip
+
+Instalar reportlab
+pip install reportlab
+
